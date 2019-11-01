@@ -1,1 +1,13 @@
+Steps:
+
 1.Data explore
+
+
+Data:
+https://raw.githubusercontent.com/openfootball/england/master/2019-20/1-premierleague.txt
+
+2.Data cleanning
+
+3.Load data into pandas dataframe
+
+4.Calculate the standing
