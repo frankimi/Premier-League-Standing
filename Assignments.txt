@@ -13,6 +13,4 @@ https://raw.githubusercontent.com/openfootball/england/master/2019-20/1-premierl
 
 4.Calculate the standing
 
-### new lines
-### new lines 2
 
